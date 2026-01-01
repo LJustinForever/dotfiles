@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Helium
+Exec=/home/lisajus/.local/bin/helium
+Icon=~/Pictures/icons/helium.png
+Type=Application
+Categories=Utility;WebBrowser

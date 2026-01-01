@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Discord (Web)
+Exec=/home/lisajus/.local/bin/helium --app=https://discord.com/app
+Icon=/home/lisajus/Pictures/icons/discord.png
+Type=Application
+Categories=Network;InstantMessaging;
