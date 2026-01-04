@@ -107,3 +107,13 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 export PATH=$HOME/.local/bin:$PATH
+
+eval "$(zoxide init zsh)"
+export PATH=$PATH:/home/lisajus/.spicetify
+export PATH=$PATH:~/.spicetify
+export PATH=$PATH:/home/lisajus/.cargo/bin
+
+alias cd=z
+alias ls=eza
+export PATH="/home/lisajus/Programs/odin-lang:$PATH"
+export PATH="[200~/home/lisajus/Programs/odin-lang:$PATH"

@@ -10,7 +10,7 @@
     "margin-left": 5, 
 
     "modules-left": [
-        "custom/rofi",
+        "custom/notifications",
         "custom/weather",
         "custom/khorshididate",
         "clock",
@@ -37,9 +37,9 @@
         "custom/power"
     ],
 
-    "custom/rofi": {
+    "custom/notifications": {
         "format": "󰌽",
-        "on-click": "rofi -show drun",
+        "on-click": "swaync-client -t -sw",
         "tooltip": false
     },
 
